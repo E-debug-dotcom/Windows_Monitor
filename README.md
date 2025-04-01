@@ -34,5 +34,5 @@ The data is then parsed and displayed in a GUI format using tkinter.
 
 The GUI updates every few seconds to display real-time data 🔄.
 
-Contributions 🤝
+## Contributions 🤝
 Feel free to open issues, fork the repository, and contribute with pull requests! 🚀
